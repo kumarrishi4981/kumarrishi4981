@@ -102,29 +102,6 @@ Node.js, and REST APIs — with a solid foundation in OOP, DSA, DBMS, and softwa
 ## 🏗️ &nbsp;Featured Projects
 
 <details>
-<summary><b>📈 QuantTrade — AI Financial Intelligence Terminal</b></summary>
-
-<br/>
-
-> Full stack financial intelligence application for real-time stock tracking, interactive charting, and technical analysis — built with a Java Spring Boot execution engine and React dashboard.
-
-<div align="center">
-
-| Dimension | Details |
-|:---|:---|
-| **Stack** | Java 17 · Spring Boot 3 · Spring Data JPA · Hibernate · PostgreSQL · React · Recharts · Vite |
-| **Features** | Strategy Builder · Backtest Engine · Equity Curves · Sharpe Ratio · Win Rate · Trade Logs |
-| **Architecture** | REST APIs · Financial API Integration · Interactive Charts · Docker · GitHub Actions |
-| **Deployment** | [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://quanttrade-frontend.vercel.app/) |
-| **Repository** | [![Frontend](https://img.shields.io/badge/Frontend-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/quanttrade-frontend) [![Backend](https://img.shields.io/badge/Backend-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/quanttrade-backend) |
-
-</div>
-
-Built a full stack financial intelligence application for real-time stock tracking, interactive charting, and technical analysis using Java 17, Spring Boot 3, React, PostgreSQL, Spring Data JPA, Hibernate, and Maven. Designed REST APIs with Spring Boot, JPA, and Hibernate for handling financial data and application workflows. Integrated external financial APIs and interactive charts to provide users with market data and stock research capabilities.
-
-</details>
-
-<details>
 <summary><b>🧠 CogniCare — Cognitive Health Support Ecosystem</b></summary>
 
 <br/>
@@ -149,25 +126,48 @@ Developed a full stack AI-assisted cognitive health support platform focused on 
 </details>
 
 <details>
-<summary><b>🌐 MindFlow — AI Knowledge Canvas</b></summary>
+<summary><b>🚛 FleetFlow — Logistics Command Center</b></summary>
 
 <br/>
 
-> Interactive 2D/3D visual canvas for brainstorming, organizing, and structuring ideas and notes — with Gemini/GPT vector embeddings to connect related concepts and summarize relationships across topics.
+> Full stack fleet management application for managing vehicles, drivers, trips, fuel, maintenance, expenses, and operational reports — with interactive Leaflet mapping and real-time WebSocket updates.
 
 <div align="center">
 
 | Dimension | Details |
 |:---|:---|
-| **Frontend** | React 19 · Three.js · React Force Graph 2D/3D · Markdown Editor · Vite |
-| **Backend** | Node.js · Express · MongoDB · Mongoose · Google Gemini Embedding-2 |
-| **AI** | Vector Embeddings · Semantic Search · Auto Link Suggestions · Cosine Similarity |
-| **Features** | Canvas CRUD · Rich Markdown Notes · 3D Knowledge Graphs · Concept Connections |
-| **Repository** | [![Frontend](https://img.shields.io/badge/Frontend-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/mindflow-frontend) [![Backend](https://img.shields.io/badge/Backend-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/mindflow-backend) |
+| **Stack** | Java 17 · Spring Boot · React · Vite · Leaflet.js · WebSockets |
+| **Features** | Fleet Tracking · Role-Based Access · Vehicle Management · Route Mapping · Dispatch UI |
+| **Architecture** | REST APIs · WebSocket Communication · Interactive Maps · Real-Time Updates |
+| **Deployment** | [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=render&logoColor=white)](https://fleetflow-fh0s.onrender.com/) |
+| **Repository** | [![Repo](https://img.shields.io/badge/View_Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/FleetFlow) |
 
 </div>
 
-Developed an interactive 2D/3D visual canvas for brainstorming, organizing, and structuring ideas and notes using React, Node.js, MongoDB, and Mongoose. Integrated Gemini/GPT APIs and AI vector embeddings to connect related concepts and summarize relationships across different topics. Designed the application to help users visualize, navigate, and organize complex knowledge structures through an interactive interface.
+Developed a full stack fleet management application for managing vehicles, drivers, trips, fuel, maintenance, expenses, and operational reports. Implemented role-based access control to support user-specific functionality and fleet operations. Integrated Leaflet.js for interactive fleet mapping and WebSocket communication for real-time operational updates.
+
+</details>
+
+<details>
+<summary><b>📈 QuantTrade — AI Financial Intelligence Terminal</b></summary>
+
+<br/>
+
+> Full stack financial intelligence application for real-time stock tracking, interactive charting, and technical analysis — built with a Java Spring Boot execution engine and React dashboard.
+
+<div align="center">
+
+| Dimension | Details |
+|:---|:---|
+| **Stack** | Java 17 · Spring Boot 3 · Spring Data JPA · Hibernate · PostgreSQL · React · Recharts · Vite |
+| **Features** | Strategy Builder · Backtest Engine · Equity Curves · Sharpe Ratio · Win Rate · Trade Logs |
+| **Architecture** | REST APIs · Financial API Integration · Interactive Charts · Docker · GitHub Actions |
+| **Deployment** | [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://quanttrade-frontend.vercel.app/) |
+| **Repository** | [![Frontend](https://img.shields.io/badge/Frontend-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/quanttrade-frontend) [![Backend](https://img.shields.io/badge/Backend-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/quanttrade-backend) |
+
+</div>
+
+Built a full stack financial intelligence application for real-time stock tracking, interactive charting, and technical analysis using Java 17, Spring Boot 3, React, PostgreSQL, Spring Data JPA, Hibernate, and Maven. Designed REST APIs with Spring Boot, JPA, and Hibernate for handling financial data and application workflows. Integrated external financial APIs and interactive charts to provide users with market data and stock research capabilities.
 
 </details>
 
@@ -196,25 +196,26 @@ Built a browser-based synthesizer with oscillators, filters, ADSR envelopes, and
 </details>
 
 <details>
-<summary><b>🚛 FleetFlow — Logistics Command Center</b></summary>
+<summary><b>🌐 MindFlow — AI Knowledge Canvas</b></summary>
 
 <br/>
 
-> Full stack fleet management application for managing vehicles, drivers, trips, fuel, maintenance, expenses, and operational reports — with interactive Leaflet mapping and real-time WebSocket updates.
+> Interactive 2D/3D visual canvas for brainstorming, organizing, and structuring ideas and notes — with Gemini/GPT vector embeddings to connect related concepts and summarize relationships across topics.
 
 <div align="center">
 
 | Dimension | Details |
 |:---|:---|
-| **Stack** | Java 17 · Spring Boot · React · Vite · Leaflet.js · WebSockets |
-| **Features** | Fleet Tracking · Role-Based Access · Vehicle Management · Route Mapping · Dispatch UI |
-| **Architecture** | REST APIs · WebSocket Communication · Interactive Maps · Real-Time Updates |
-| **Deployment** | Railway · Render |
-| **Repository** | [![Repo](https://img.shields.io/badge/View_Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/FleetFlow) |
+| **Frontend** | React 19 · Three.js · React Force Graph 2D/3D · Markdown Editor · Vite |
+| **Backend** | Node.js · Express · MongoDB · Mongoose · Google Gemini Embedding-2 |
+| **AI** | Vector Embeddings · Semantic Search · Auto Link Suggestions · Cosine Similarity |
+| **Features** | Canvas CRUD · Rich Markdown Notes · 3D Knowledge Graphs · Concept Connections |
+| **Deployment** | [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://mindflow-frontend-bay.vercel.app/) |
+| **Repository** | [![Frontend](https://img.shields.io/badge/Frontend-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/mindflow-frontend) [![Backend](https://img.shields.io/badge/Backend-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/mindflow-backend) |
 
 </div>
 
-Developed a full stack fleet management application for managing vehicles, drivers, trips, fuel, maintenance, expenses, and operational reports. Implemented role-based access control to support user-specific functionality and fleet operations. Integrated Leaflet.js for interactive fleet mapping and WebSocket communication for real-time operational updates.
+Developed an interactive 2D/3D visual canvas for brainstorming, organizing, and structuring ideas and notes using React, Node.js, MongoDB, and Mongoose. Integrated Gemini/GPT APIs and AI vector embeddings to connect related concepts and summarize relationships across different topics. Designed the application to help users visualize, navigate, and organize complex knowledge structures through an interactive interface.
 
 </details>
 
@@ -233,6 +234,7 @@ Developed a full stack fleet management application for managing vehicles, drive
 | **Visualizations** | Bubble Matrix · Trend Lines · Sector Bars · PESTLE Radar · Regional Doughnut |
 | **Features** | Multi-Dimensional Filtering · KPI Cards · Sortable Tables · Dark/Light Mode |
 | **Architecture** | REST APIs · MongoDB Aggregation Pipelines · Responsive UI |
+| **Deployment** | [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://blackcoffer-visualization-dashboard-woad.vercel.app/) |
 | **Repository** | [![Repo](https://img.shields.io/badge/View_Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/kumarrishi4981/blackcoffer-visualization-dashboard) |
 
 </div>
