@@ -14,7 +14,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kumarrishi4981)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikumar4981/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.rishi4981@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarrishi4981)
@@ -48,7 +47,7 @@ Node.js, and REST APIs — with a solid foundation in OOP, DSA, DBMS, and softwa
 
 <br/>
 
-> **Open To:** Software Developer · Java Developer · Java Full Stack Developer · Backend Developer · Entry-Level SWE — On-site · Hybrid · Remote
+> **Open To:** Software Developer · Java Developer · Backend Developer · Entry-Level SWE — On-site · Hybrid · Remote
 
 ---
 
@@ -68,9 +67,9 @@ Node.js, and REST APIs — with a solid foundation in OOP, DSA, DBMS, and softwa
 
 [![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,hibernate,mongodb,postgres,mysql&theme=dark&perline=7)](https://skillicons.dev)
 
-**Cloud, DevOps & Tooling**
+**Tools & Technologies**
 
-[![Cloud](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,maven,postman,vercel&theme=dark&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,maven,postman,vercel&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -78,7 +77,7 @@ Node.js, and REST APIs — with a solid foundation in OOP, DSA, DBMS, and softwa
 
 **Also Working With**
 
-`Spring Boot 3` `Spring Data JPA` `Hibernate` `React 19` `Express 5` `Mongoose` `GridFS` `Socket.io` `Tone.js` `Web Audio API` `Chart.js` `Recharts` `Leaflet` `Three.js` `Force Graph` `Google Gemini AI` `Gemini Embeddings` `REST APIs` `WebSockets` `JWT` `Render` `Railway` `CI/CD` `DevSecOps`
+`Spring Boot 3` `Spring Data JPA` `Hibernate` `React 19` `Express 5` `Mongoose` `GridFS` `Socket.io` `Tone.js` `Web Audio API` `Chart.js` `Recharts` `Leaflet` `Three.js` `Google Gemini AI` `Gemini Embeddings` `REST APIs` `WebSockets` `Render` `Vercel`
 
 </div>
 
@@ -283,10 +282,6 @@ Developed Java applications using Core Java, OOP, SQL, HTML, CSS, JavaScript, an
 |:---:|:---|
 | 💻 **LeetCode DSA** | 342+ Problems Solved · 100-Day Streak · 127 Active Days · [phenom7050](https://leetcode.com/u/phenom7050/) |
 | 🏅 **Olympiad Distinctions** | Distinctions in English, Cyber & Mathematics Olympiads — Saint Joseph's School |
-| 🎯 **Adobe India Hackathon** | Participant — Adobe India Hackathon 2025 |
-| 🏢 **Tata Crucible** | Tata Crucible Campus Quiz 2025 — Tata Group |
-| 🧠 **MindGauntlet** | MindGauntlet Challenge — OutThinkX |
-| 🤖 **India's Biggest AI Quiz** | Participant — CampusCrew |
 | 🥇 **Cricket Champion** | 1st Position — Ranbhoomi Intra-College Tournament, BVCOE |
 | 🥇 **Football Champion** | 1st Position — Ranbhoomi Intra-College Tournament, BVCOE |
 | 🥉 **Table Tennis** | 3rd Position — Ranbhoomi Intra-College Tournament, BVCOE |
@@ -308,10 +303,6 @@ Developed Java applications using Core Java, OOP, SQL, HTML, CSS, JavaScript, an
 
 [![DevSecOps](https://img.shields.io/badge/DevSecOps_Basic_Course-4338CA?style=for-the-badge&logo=linux&logoColor=white)](https://nielit.gov.in/)
 
-**Government of India**
-
-[![Data Analyst](https://img.shields.io/badge/Data_Analyst_Certificate-6D28D9?style=for-the-badge&logo=indian-government&logoColor=white)](https://msme.gov.in/)
-
 **Adobe**
 
 [![Adobe Hackathon](https://img.shields.io/badge/Adobe_India_Hackathon_2025-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
@@ -320,12 +311,6 @@ Developed Java applications using Core Java, OOP, SQL, HTML, CSS, JavaScript, an
 
 [![Tata Crucible](https://img.shields.io/badge/Tata_Crucible_Campus_Quiz_2025-1a1b27?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://www.tata.com/)&nbsp;
 [![Tata Quiz](https://img.shields.io/badge/Tata_Quiz_2025-1a1b27?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://www.tata.com/)
-
-**Others**
-
-[![TVS](https://img.shields.io/badge/IT_Challenge-TVS_Credit-7C3AED?style=for-the-badge)](https://www.tvscredit.com/)&nbsp;
-[![MindGauntlet](https://img.shields.io/badge/MindGauntlet-OutThinkX-6D28D9?style=for-the-badge)](https://outthinkx.com/)&nbsp;
-[![AI Quiz](https://img.shields.io/badge/India's_Biggest_AI_Quiz-CampusCrew-4338CA?style=for-the-badge)](https://campuscrew.in/)
 
 </div>
 
@@ -402,7 +387,6 @@ Exploring:
 
 Open To:
   - Software Developer / Java Developer roles
-  - Java Full Stack Developer positions
   - Backend Developer opportunities
   - Entry-Level SWE — On-site, Hybrid, or Remote
 ```
