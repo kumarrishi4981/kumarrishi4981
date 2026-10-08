@@ -358,7 +358,13 @@ Worked on DevOps and DevSecOps workflows, gaining practical exposure to CI/CD, c
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-342+_Solved_|_100_Day_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/phenom7050/)
+<a href="https://leetcode.com/u/phenom7050/">
+  <img src="https://leetcard.jacoblin.cool/phenom7050?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Profile Stats" />
+</a>
+
+<br/><br/>
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-342+_Solved_|_100_Day_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/phenom7050/)
 
 </div>
 
@@ -380,26 +386,6 @@ Worked on DevOps and DevSecOps workflows, gaining practical exposure to CI/CD, c
 <a href="https://github.com/kumarrishi4981">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarrishi4981&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7C3AED&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6B7280" alt="GitHub Streak" />
 </a>
-
-</div>
-
----
-
-## 🏅 &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kumarrishi4981&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/kumarrishi4981)
-
-</div>
-
----
-
-## 📈 &nbsp;Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarrishi4981&bg_color=0d1117&color=A855F7&line=7C3AED&point=c9d1d9&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/kumarrishi4981)
 
 </div>
 
