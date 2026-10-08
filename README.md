@@ -273,31 +273,6 @@ Developed Java applications using Core Java, OOP, SQL, HTML, CSS, JavaScript, an
 
 `Core Java` `OOP` `SQL` `HTML` `CSS` `JavaScript` `React.js` `Spring Boot` `Git` `Node.js`
 
-<br/>
-
-### **Cyber Ops Associate Intern** &nbsp;·&nbsp; Cisco Networking Academy
-`Feb 2026 — May 2026` &nbsp;·&nbsp; Remote
-
-Analyzed cybersecurity concepts involving network monitoring, threat analysis, endpoint protection, and security operations through practical training.
-
-- Studied cyber threats, incident detection, vulnerability assessment, and incident response procedures
-- Applied foundational knowledge of network security and cybersecurity operations through hands-on exercises
-
-`Network Security` `Cyber Operations` `Threat Analysis` `Incident Response` `Endpoint Protection`
-
-<br/>
-
-### **DevOps Trainee** &nbsp;·&nbsp; NIELIT
-`Feb 2026 — May 2026` &nbsp;·&nbsp; Remote
-
-Worked on DevOps and DevSecOps workflows, gaining practical exposure to CI/CD, cloud deployment, and pipeline automation.
-
-- Worked with AWS infrastructure and explored Infrastructure & Application Pipelines through hands-on labs
-- Applied concepts of cloud deployment and pipeline automation from development through testing to deployment
-- Gained exposure to DevSecOps practices, integrating security considerations into development and deployment workflows
-
-`Docker` `CI/CD` `AWS` `DevSecOps` `Cloud Infrastructure` `Deployment Pipelines`
-
 ---
 
 ## 🏆 &nbsp;Achievements
