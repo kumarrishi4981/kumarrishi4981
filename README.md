@@ -20,7 +20,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumarrishi4981&style=flat-square&color=7C3AED&label=Profile+Views)&nbsp;&nbsp;
 [![Followers](https://img.shields.io/github/followers/kumarrishi4981?style=flat-square&color=6D28D9&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/kumarrishi4981?tab=followers)&nbsp;&nbsp;
 [![Stars](https://img.shields.io/github/stars/kumarrishi4981?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github&label=Stars&affiliations=OWNER)](https://github.com/kumarrishi4981?tab=repositories)
 
