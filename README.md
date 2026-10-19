@@ -15,7 +15,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikumar4981/)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-📄_View_PDF-7C3AED?style=for-the-badge)](https://drive.google.com/file/d/1VIQpzSBgmyK8lQI6b9k63bP2PB-nFCBG/view?usp=drive_link)&nbsp;
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.rishi4981@gmail.com)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/phenom7050/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarrishi4981)
 
 <br/>
